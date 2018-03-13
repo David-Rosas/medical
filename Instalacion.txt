@@ -1,0 +1,38 @@
+/*******************************************************************
+**************     Medical Center Version 1.0.1    *****************
+********************************************************************
+***************  @Author ISC.Ulises Rodriguez T.   *****************
+********************************************************************
+***************   @Author Ing.Jorge Hernández.     *****************
+********************************************************************
+***************          @copyright 2010           ***************** 
+********************************************************************
+***************           @Instalacion             *****************
+********************************************************************/
+
+1.-Crear base de datos con el nombre 'paciente'
+2.-Descomprimir el archivo Paciente_database que se encuentra en mod_configuracion
+3.-Ejecutar el archivo sql en phpmyadmin
+4.-Modificar el archivo configuracion.php que se encuentra en el mod_configuracion
+
+	$bd_host = "server";
+	$bd_usuario = "usuario";
+	$bd_pass = "contraseña";
+	$bd_base = "base_de_datos";
+	$bd_port="puerto";
+
+
+5.-Crear un usuario en http://localhost/medical/mod_admin o http://Dominio/mod_admin
+6.-Una vez creado el usuario ir a http://localhost/medical o http://Dominio/
+7.-Iniciar sesion al sistema..
+8.-Si el usuario y contraseña son correctos eliminar el directorio mod_admin...
+
+Saludos a toda la comunidad de cesarcancino...   
+
+Mis datos
+
+Sitio: www.ulisesrodriguez.com
+Gmail: ing.ulisesrodriguez@gmail.com
+Skype: systemonlinesoftware
+Facebook: http://www.facebook.com/ISC.Ulises
+Twitter: http://twitter.com/#!/isc_ulises

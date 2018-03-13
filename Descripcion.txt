@@ -1,0 +1,29 @@
+/*******************************************************************
+**************     Medical Center Version 1.0.1    *****************
+********************************************************************
+***************  @Author ISC.Ulises Rodriguez T.   *****************
+********************************************************************
+***************   @Author Ing.Jorge Hernández.     *****************
+********************************************************************
+***************          @copyright 2010           ***************** 
+********************************************************************
+***************           @Instalacion             *****************
+********************************************************************/
+
+Es un sistema con el cual es posible relizar lo siguiente:
+
+Registros de pacientes con fotografia. 
+Actualizacion de datos. 
+Eliminacion de datos.
+Generar archivos en formato pdf sobre la informacion de los pacientes registrados. 
+
+Crear y tener expedientes medicos actualizados.
+
+Crear historiales y registrar nuevos sintomas en cada pacientes para saber cuales enfermedades son mas comunes.
+Creacion de historial en formato pdf.
+
+Administracion de usuarios y medicos.
+
+Espero y les sea util el proyecto.
+
+Saludos a toda la comunidad de cesarcancino...  
